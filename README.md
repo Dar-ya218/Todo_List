@@ -35,3 +35,17 @@ Tired of boring todo apps that just make you feel guilty? Welcome to the only to
 - The most common excuse is "I'll do it tomorrow" (spoiler: you won't)
 - This README took you longer to read than actually doing a task
 - There's a 0.01% chance you'll actually use this app to be productive (but hey, I believe in you! You might be that 0.01%!)
+
+## 🐛 "Special Features"
+- May cause laughing fits during stressful moments
+- Sarcastic messages might hurt your procrastination's feelings
+- I take no responsibility for emoji addiction
+- Might make you realize how little you actually do (oops)
+
+## 🎉 Final Words
+Remember: It's not procrastination if you call it "strategic time management" 😉
+
+---
+*Created with 📝 and an excessive amount of coffee*
+
+*P.S.: If you're reading this, you should probably be doing something else*
